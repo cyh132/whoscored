@@ -8,7 +8,7 @@ crawling whoscored.com and soccer player analytics
 3. Rating predict - each pisition
 
 	- get data from mysql DB
-	- scailing
+	- scaling
 	- OLS and check t-value
 	- ANOVA and check F value
 	- predict rating
